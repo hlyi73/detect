@@ -1,0 +1,6 @@
+D:\Emgu\emgucv-windesktop 3.1.0.2282\bin\Stitching.exe
+D:\Emgu\emgucv-windesktop 3.1.0.2282\bin\Stitching.pdb
+D:\Emgu\emgucv-windesktop 3.1.0.2282\Emgu.CV.Example\Stitching\obj\Debug\Stitching.StitchingMainForm.resources
+D:\Emgu\emgucv-windesktop 3.1.0.2282\Emgu.CV.Example\Stitching\obj\Debug\Stitching.csproj.GenerateResource.Cache
+D:\Emgu\emgucv-windesktop 3.1.0.2282\Emgu.CV.Example\Stitching\obj\Debug\Stitching.exe
+D:\Emgu\emgucv-windesktop 3.1.0.2282\Emgu.CV.Example\Stitching\obj\Debug\Stitching.pdb

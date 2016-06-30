@@ -1,0 +1,6 @@
+D:\Emgu\emgucv-windesktop 3.1.0.2282\bin\box.png
+D:\Emgu\emgucv-windesktop 3.1.0.2282\bin\box_in_scene.png
+D:\Emgu\emgucv-windesktop 3.1.0.2282\bin\Example.SURFFeature.exe
+D:\Emgu\emgucv-windesktop 3.1.0.2282\bin\Example.SURFFeature.pdb
+D:\Emgu\emgucv-windesktop 3.1.0.2282\Emgu.CV.Example\SURFFeature\obj\Debug\Example.SURFFeature.exe
+D:\Emgu\emgucv-windesktop 3.1.0.2282\Emgu.CV.Example\SURFFeature\obj\Debug\Example.SURFFeature.pdb
